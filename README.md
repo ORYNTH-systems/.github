@@ -1,41 +1,55 @@
-﻿# ORYNTH GitHub Organization
+﻿# ORYNTH
 
-This repository contains organization-level GitHub configuration, sponsorship configuration, profile materials, and documentation standards for ORYNTH.
+Research and infrastructure for governed execution systems.
 
----
-
-## Purpose
-
-The `.github` repository provides shared organization infrastructure for ORYNTH repositories.
-
-It may include:
-
-- organization profile materials
-- sponsorship configuration
-- repository documentation standards
-- shared contribution and documentation guidance
-- public research profile references
+ORYNTH develops architectures that determine whether actions remain admissible, authoritative, and executable as conditions change across time, systems, and institutions.
 
 ---
 
-## Organization Profile
+## Core Research
 
-The public ORYNTH organization profile is maintained at:
+### Unified Agency Architecture (UAA)
 
-`profile/README.md`
+Conditional execution authority for intelligent systems.
 
-That file controls the profile content displayed on the ORYNTH GitHub organization homepage.
+### Execution Integrity Protocol (EIP)
 
----
+Continuity verification for deferred, autonomous, and distributed execution.
 
-## Documentation Standards
+### Execution Governance
 
-Repository documentation guidance is maintained in:
-
-`README_STYLE_GUIDE.md`
+Governance architectures for trustworthy execution environments.
 
 ---
 
-## ORYNTH
+## Emerging Research
 
-ORYNTH develops research surfaces and reference implementations for execution governance, runtime integrity, admissibility systems, and institutional intelligence infrastructure.
+### Constraint-Integrated Glyphic Control Systems (CIGCS)
+
+Governed state manifestation and render-boundary enforcement.
+
+### Admissibility-Oriented Management Systems (AOMS)
+
+Authority continuity, reconciliation, and admissibility reconstruction.
+
+### Institutional Intelligence Infrastructure
+
+Decision systems for complex organizational environments.
+
+---
+
+## Publications & Research
+
+ORCID
+
+https://orcid.org/0009-0000-4470-9941
+
+Published research, reference implementations, and supporting repositories are maintained through the ORYNTH GitHub organization.
+
+---
+
+## Mission
+
+As intelligent systems assume increasing responsibility for consequential decisions and actions, governance can no longer remain external to execution.
+
+ORYNTH develops the architectures required for authority, continuity, admissibility, and execution integrity to become verifiable system properties.
