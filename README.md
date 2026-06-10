@@ -22,19 +22,11 @@ Governance architectures for trustworthy execution environments.
 
 ---
 
-## Emerging Research
+## Published Research
 
-### Constraint-Integrated Glyphic Control Systems (CIGCS)
+### Deterministic Execution Integrity for Autonomous Financial Infrastructure
 
-Governed state manifestation and render-boundary enforcement.
-
-### Admissibility-Oriented Management Systems (AOMS)
-
-Authority continuity, reconciliation, and admissibility reconstruction.
-
-### Institutional Intelligence Infrastructure
-
-Decision systems for complex organizational environments.
+Research into continuity-governed execution, settlement integrity, and autonomous financial systems.
 
 ---
 
