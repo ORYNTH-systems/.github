@@ -10,19 +10,19 @@ ORYNTH develops architectures that determine whether actions remain admissible, 
 
 ### Unified Agency Architecture (UAA)
 
-A control-plane architecture for conditional execution authority and admissibility-governed execution systems.
+Conditional execution authority for intelligent systems.
 
 ### Execution Integrity Protocol (EIP)
 
-A continuity-verification architecture for deferred, autonomous, and distributed execution environments.
+Continuity verification for deferred, autonomous, and distributed execution.
 
 ### Deterministic Execution Integrity for Autonomous Financial Infrastructure
 
-A continuity-governed execution architecture for autonomous financial systems, settlement integrity, and execution-time verification.
+Continuity-governed execution for autonomous financial and settlement systems.
 
 ---
 
-## Research Focus
+## Research Areas
 
 - Execution Authority
 - Execution Integrity
@@ -33,10 +33,9 @@ A continuity-governed execution architecture for autonomous financial systems, s
 
 ---
 
-## Publications & Research
+## Research Profile
 
-ORCID
-
+**ORCID**  
 https://orcid.org/0009-0000-4470-9941
 
 Published research, reference implementations, and supporting repositories are maintained through the ORYNTH GitHub organization.
